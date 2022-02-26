@@ -3,7 +3,7 @@ The purpose of this project is to predict the daily, weekly, and monthly sales f
  
  1- Exploratory Data Analysis\
  2- FbProphet model\
- 3 -FbProphet daily prediction\ 
+ 3 -FbProphet daily prediction\
  4-FbProphet monthly prediction\
  5 FbProphet weekly prediction\
  6- LSTM model\
