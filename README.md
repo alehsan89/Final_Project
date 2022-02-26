@@ -3,13 +3,13 @@ The purpose of this project is to predict the daily, weekly, and monthly sales f
  
  1- Exploratory Data Analysis\
  2- FbProphet model
-   -FbProphet daily prediction\- 
-   -  FbProphet monthly prediction\-
-   -FbProphet weekly prediction\
- 3- LSTM model\
- 4- ARIMA model\
- 5- XGBoost model\
- 6- Random Forest Regression model
+ 3-FbProphet daily prediction\- 
+ 4-FbProphet monthly prediction\-
+ 5 FbProphet weekly prediction\
+ 6- LSTM model\
+ 7- ARIMA model\
+ 8- XGBoost model\
+ 9- Random Forest Regression model
 
  
  
