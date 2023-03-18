@@ -1,5 +1,5 @@
 # Final_project
-The purpose of this project is to predict the daily, weekly, and monthly sales for TOP4SPORT company. TOP4SPORT is a company which sales different sport equipment across all European countries. Among all the models, Fb Prophet dialy prediction  and LSTM shows the best performance. This repository contains the following files:
+The purpose of this project is to predict the daily, weekly, and monthly sales for TOP4SPORT company. TOP4SPORT is a company which sells different sport equipment across all European countries. I used FbProphet, LSTM, ARIMA and XGBoost models which  among all the models, Fb Prophet dialy prediction  and LSTM shows the best performance. This repository contains the following files:
  
  1- Exploratory Data Analysis\
  2- FbProphet model\
